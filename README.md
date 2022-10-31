@@ -1,6 +1,6 @@
 # dijkstra
 
-Just some attempt at recreting this algorithm in python, for fun.
+Just some attempt at recreating this algorithm in python, for fun.
 
 ## The `Nodes` folder
 
